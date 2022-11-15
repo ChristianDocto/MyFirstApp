@@ -1,0 +1,12 @@
+<php
+
+    $mark = array (
+	   "alex" => array (
+            "physic" => 35,
+            "maths" => 30,
+            "chemistry => 39
+          )
+          ) :
+          echo marks ["alex"] ["physic"]  
+
+?>		  
